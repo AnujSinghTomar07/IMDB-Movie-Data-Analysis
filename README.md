@@ -4,7 +4,7 @@
 
 The project aimed to analyze IMDb data of the top 100 movies from the past decade to uncover insights on performance, demographics, and ratings. It utilized Python's data analysis libraries to provide valuable insights for filmmakers and audiences.
 
-## Tools and Libraries
+## Tools and Libraries 
 
 - **Python**: Coding and data manipulation.
 - **Pandas**: Data manipulation and analysis.
